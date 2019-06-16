@@ -1,0 +1,8 @@
+.container{
+    max-width: 960px;
+    width: 100;
+}
+.nav-grid{
+    display: grid;
+    grid-template-columns: 300pc 1fr;
+}
